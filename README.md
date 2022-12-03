@@ -8,4 +8,4 @@ I'm currently working on a homebrew no-code/low-code design automation software,
 
 Today, I'd be looking to work as part of a team on Elixir-related projects, either on the ecosystem itself or products built with it.
 
-On the side, a bit of my optics-making can be found on GitHub too. I'd love to discuss that too, so feel free to reach out.
+On the side, a bit of my optics-making can be found on GitHub too. (see https://github.com/Lucassifoni/hyperbolic-200mm-f3.5- ) I'd love to discuss that too, so feel free to reach out.
