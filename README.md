@@ -2,7 +2,7 @@
 ### Work
 
 I've been freelancing since 2015 doing spec discovery, planning & development of web and internal projects for various clients. Either solo, or with [designers](https://documents.design) & other teams.
-A summary of my experiences & contact info. is available here : [lucassifoni.github.io/cv/](https://lucassifoni.github.io/cv/).
+A summary of my experiences & contact info, as well as my blog. is available here : [lucassifoni.info/](https://lucassifoni.info/).
 
 I'm currently working on a homebrew no-code/low-code design automation software, for which I'm building Ovo2, a small script language that can be bidirectionnally edited with text or a visual editor. This project is a mix of Typescript + Vue & Elixir.
 
